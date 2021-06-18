@@ -7,7 +7,7 @@ export const Dog = (props) => {
   const changeAnimal = () => {
     const newAnimal = animal === "dog" ? "cat" : "dog";
     console.log(newAnimal)
-    setAnimal({ animal: newAnimal });
+    setAnimal(newAnimal);
   }
 
 
