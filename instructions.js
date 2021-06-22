@@ -1,4 +1,4 @@
-// begin creating your answer by creating the boilerplate version of the app by running npx create-react-app dogimageapp. This may take a while.
+// begin creating your answer by creating the boilerplate version of the app by running npm create-react-app dogimageapp. This may take a while.
 // move into this folder and write 'npm start' to start a live version of the app
 
 // 1. Set up Your Dog.js file
