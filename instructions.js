@@ -18,3 +18,4 @@
     // the image should change from a dog to a cat and back again when clicked again
     // finally, use a ternary operator to change the button to read
     // 'i'm more of a cat person' when showing the dog, and 'i'm more of a dog person' when showing the cat
+
