@@ -2,7 +2,7 @@
 // move into this folder and write 'npm start' to start a live version of the app
 
 // 1. Set up Your Dog.js file
-//  a) copy and paste your Dog.js to begin file inside the src file 
+//  a) copy and paste your Dog.js to begin file inside the src folder 
 //  b) import the Dog class in your App.js, and render the Dog component inside the App.js render method
 //  c) check that the site has been updated to display the image and button from the dog.js file before continuing
 
